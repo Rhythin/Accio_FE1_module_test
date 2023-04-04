@@ -107,13 +107,8 @@ body{
     padding: 3px;
     
 }
-.firstImage{
-  overflow: hidden;
-}
 
-.firstImage:hover {
-    transform:scale(1.2)
-}
+
 .last{
     padding: 15px;
 }
@@ -138,5 +133,5 @@ body{
 }
 
 .imgbox:hover img{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
